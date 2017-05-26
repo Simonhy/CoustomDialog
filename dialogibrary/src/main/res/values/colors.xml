@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="color_white">#fff</color>
+
+    <!-- 统一对话框颜色Start-->
+    <color name="common_dialog_positive_color">#ff615d</color>
+    <color name="common_dialog_negative_color">#434343</color>
+    <color name="common_dialog_tittle_color">#313131</color>
+    <color name="common_dialog_content_color">#666666</color>
+    <color name="common_dialog_divider_color">#d5d5d5</color>
+    <!-- 统一对话框颜色End -->
+</resources>
