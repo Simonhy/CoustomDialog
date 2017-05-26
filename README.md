@@ -2,7 +2,7 @@
   自定义对话框,简单易用,封装好了,最近项目中使用的一种对话框
   构造函数有两种,一种是带有标题的,可以自定义标题 第二种带有编辑框的.可以设置其确定/取消的按钮.
 ## 样式图片
-   需要的话,自行运行试一下,是否符合你的需求
+   需要的话,自行运行试一下,是否符合你的需求,图片详见简书
 ## 使用
    DialogUtils. DialogUtil.createComfirmDialog(this); 
    或者DialogUtil.createOnlyTitleComfirmDialog(this);
